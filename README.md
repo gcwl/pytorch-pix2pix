@@ -2,9 +2,9 @@
 
 **WORK IN PROGRESS**
 
-homepage:
+- homepage:
   - https://phillipi.github.io/pix2pix
-paper:
+- paper:
   - https://arxiv.org/abs/1611.07004
-other implementations:
+- other implementations:
   - https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
